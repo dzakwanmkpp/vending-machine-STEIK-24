@@ -1,3 +1,18 @@
+# daftar_barang (arr) adalah lit daftar barang yang dijual
+# harga_barang (arr) adalah list harga setiap daftar barang
+# stok (arr) adalah list ketersediaan stok barang
+# nutrisi (arr) adalah list informasi nutrisi barang
+# menudipilih (int) adalah inputan pengguna untuk pilihan menu
+# sibarang (int) adalah kode barang yang dipilih pengguna
+# idbarangdipilih (int) adalah kode inputan pengguna untuk barang yang mau dibeli
+# id_barang (int) adalah kode inputan pengguna untuk info nutrisi yang ingin dilihat
+# jumlah_pembelian (int) adalah jumlah barang yang ingin dibeli pengguna
+# transaksi (int) adalah jumlah transaksi yang harus dibayar pengguna
+# nilai_uang (arr) adalah list nominal uang yang dapat digunakan pengguna untuk bertransaksi
+# sisa_bayar (arr) adalah jumlah sisa transaksi yang harus dibayar pengguna jika memiliki kembalian
+# x_masuk (int) adalah nominal uang yang dimasukkan pengguna
+# borong_ngga (int) adalah kode pilihan pengguna untuk memborong atau tidak memborong barang
+
 import colorama
 from colorama import Fore, Style
 from datetime import datetime
