@@ -1,3 +1,8 @@
+# Program Vending Machine (Tugas Besar)
+# Kelompok 15 K28 Computational Thinking
+# 17 November 2024
+
+# Kamus
 # daftar_barang (arr) adalah lit daftar barang yang dijual
 # harga_barang (arr) adalah list harga setiap daftar barang
 # stok (arr) adalah list ketersediaan stok barang
